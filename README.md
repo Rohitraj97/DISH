@@ -5,7 +5,7 @@ This project is done to see any dishes with respect to main ingredients and to s
 
 This is the API for this project : https://www.themealdb.com/api/json/v1/1/filter.php?i=${ingredient_name}
 
-[Deployed link](https://sage-treacle-a7a6e7.netlify.app/)
+[Deployed link](https://resilient-cascaron-bec1dc.netlify.app)
 
 
 
